@@ -1,7 +1,7 @@
-package com.LojaControl.controller;
+package com.loja.control.controller;
 
-import com.LojaControl.entity.Produto;
-import com.LojaControl.service.ProdutoService;
+import com.loja.control.entity.Produto;
+import com.loja.control.service.ProdutoService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

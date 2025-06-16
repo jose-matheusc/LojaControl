@@ -1,4 +1,4 @@
-package com.LojaControl;
+package com.loja.control;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

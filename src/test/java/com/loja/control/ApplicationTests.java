@@ -1,4 +1,4 @@
-package com.LojaControl;
+package com.loja.control;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

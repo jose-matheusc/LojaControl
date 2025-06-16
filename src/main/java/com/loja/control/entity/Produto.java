@@ -1,4 +1,4 @@
-package com.LojaControl.entity;
+package com.loja.control.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

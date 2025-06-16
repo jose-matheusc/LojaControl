@@ -1,6 +1,6 @@
-package com.LojaControl.respository;
+package com.loja.control.respository;
 
-import com.LojaControl.entity.Produto;
+import com.loja.control.entity.Produto;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

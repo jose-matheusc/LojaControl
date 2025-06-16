@@ -1,7 +1,7 @@
-package com.LojaControl.service;
+package com.loja.control.service;
 
-import com.LojaControl.entity.Produto;
-import com.LojaControl.respository.ProdutoRepository;
+import com.loja.control.entity.Produto;
+import com.loja.control.respository.ProdutoRepository;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
