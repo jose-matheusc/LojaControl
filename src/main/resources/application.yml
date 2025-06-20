@@ -5,3 +5,5 @@ spring:
     url: jdbc:mysql://localhost:3306/loja-control
     username:
     password:
+  flyway:
+    enabled: true
